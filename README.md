@@ -11,7 +11,7 @@ Exit Command: Users can terminate the chat by entering "exit" as a message.
 **How to Run**
 : 1. Server
 Run the Server.java file.
-The server will start and wait for incoming connections on port 7777.
+The server will start and wait for incoming connections on port 7777.<br>
 2. Client
 Run the Client.java file.
 The client will attempt to connect to the server at 127.0.0.1 (localhost) on port 7777.
