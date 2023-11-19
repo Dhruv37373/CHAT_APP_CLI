@@ -8,11 +8,11 @@ This is a simple command-line-based chat application implemented in Java using S
 : Real-Time Chat: The server and client can send and receive messages in real-time.
 Exit Command: Users can terminate the chat by entering "exit" as a message.
 
-**How to Run**
-: 1. Server
+**How to Run**<br>
+: 1. Server -
 Run the Server.java file.
 The server will start and wait for incoming connections on port 7777.<br>
-2. Client
+2. Client -
 Run the Client.java file.
 The client will attempt to connect to the server at 127.0.0.1 (localhost) on port 7777.
 Once the connection is established, the user can start sending and receiving messages.
