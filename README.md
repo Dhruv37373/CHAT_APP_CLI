@@ -1,7 +1,7 @@
 ## **Java Chat Application**
 This is a simple command-line-based chat application implemented in Java using ServerSocket and Socket for communication between a server and a client.
 
-**Overview**
+**Overview : **
 The chat application consists of two main components: the server and the client. The server waits for incoming connections, and once a connection is established, it allows for real-time communication between the server and the client.
 
 **Features**
